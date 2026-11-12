@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_top_extra">20dp</dimen>
+    <dimen name="screen_bottom_extra">12dp</dimen>
+    <dimen name="toolbar_min_height">56dp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+</resources>

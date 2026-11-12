@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">트립메이트</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">여행을 계획하고,\n공유하고,\n함께 추억을 만들어요</string>
+    <string name="welcome_subtitle">여행 일정 공유 서비스</string>
+    <string name="login">로그인</string>
+    <string name="sign_up">회원가입</string>
+
+    <!-- Auth -->
+    <string name="email">이메일을 입력하세요</string>
+    <string name="password">비밀번호를 입력하세요</string>
+    <string name="confirm_password">비밀번호 확인</string>
+    <string name="nickname">닉네임</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="find_password">비밀번호 찾기</string>
+    <string name="captcha_title">보안 문자 확인</string>
+    <string name="captcha_answer_hint">정답 입력</string>
+    <string name="captcha_refresh">새로고침</string>
+    <string name="captcha_wrong">보안 문자가 올바르지 않습니다.</string>
+
+    <!-- Home -->
+    <string name="home_title">여행 일정 공유</string>
+    <string name="search_hint">여행지, 일정 검색</string>
+    <string name="popular_trips">인기 여행 일정</string>
+    <string name="latest_trips">최신 여행 일정</string>
+    <string name="see_more">더보기 &gt;</string>
+    <string name="search_results">검색 결과</string>
+    <string name="search_empty">검색 결과가 없습니다.</string>
+    <string name="cannot_follow_self">내 일정에는 팔로우할 수 없습니다.</string>
+    <string name="already_saved">이미 저장한 일정입니다.</string>
+    <string name="unsaved_itinerary">저장이 취소되었습니다.</string>
+    <string name="user_profile">프로필</string>
+    <string name="no_created_trips">작성한 일정이 없습니다.</string>
+    <string name="change_profile_photo">프로필 사진 변경</string>
+    <string name="profile_bio_hint">소개말</string>
+    <string name="profile_updated">프로필이 수정되었습니다.</string>
+    <string name="profile_image_error">사진을 불러오지 못했습니다.</string>
+
+    <!-- Map -->
+    <string name="map_title">여행 지도</string>
+    <string name="map_load_error">지도를 불러오지 못했습니다. Google Maps API 키 설정을 확인해 주세요.</string>
+    <string name="map_no_schedule">표시할 일정 장소가 없습니다.</string>
+    <string name="pick_place_on_map">지도에서 장소 선택</string>
+    <string name="place_picker_title">장소 선택</string>
+    <string name="place_picker_hint">지도를 탭해서 장소 위치를 선택하세요.</string>
+    <string name="place_picker_empty">아직 선택한 위치가 없습니다.</string>
+    <string name="place_picker_confirm">이 위치 사용</string>
+    <string name="schedule_location_set">위치 설정됨 (%.4f, %.4f)</string>
+    <string name="schedule_location_unset">지도에서 위치를 선택하면 여행 지도에 표시됩니다.</string>
+    <string name="map_flow_hint">등록 후 일정 상세 화면의 「여행 지도」 버튼에서 확인할 수 있습니다.</string>
+
+    <!-- Detail -->
+    <string name="detail_title">일정 상세</string>
+    <string name="tab_schedule">일정</string>
+    <string name="tab_info">정보</string>
+    <string name="tab_reviews">후기(%d)</string>
+    <string name="write_review">후기 작성</string>
+    <string name="review_hint">여행 후기를 남겨주세요</string>
+    <string name="review_success">후기가 등록되었습니다.</string>
+    <string name="review_empty">아직 작성된 후기가 없습니다.</string>
+    <string name="rating_label">별점</string>
+    <string name="follow">팔로우</string>
+    <string name="following">팔로잉</string>
+    <string name="follow_success">팔로우했습니다.</string>
+    <string name="save">저장</string>
+    <string name="day_format">%d일차</string>
+
+    <!-- My Itineraries -->
+    <string name="my_itineraries">내 일정</string>
+    <string name="created_trips">내가 만든 일정</string>
+    <string name="saved_trips">저장한 일정</string>
+
+    <!-- Create -->
+    <string name="create_itinerary">일정 만들기</string>
+    <string name="edit_itinerary">일정 수정</string>
+    <string name="itinerary_updated">일정이 수정되었습니다.</string>
+    <string name="cannot_edit_others_trip">본인이 작성한 일정만 수정할 수 있습니다.</string>
+    <string name="add_cover_photo">대표 사진 추가</string>
+    <string name="title">제목</string>
+    <string name="destination">여행지</string>
+    <string name="travel_period">여행 기간</string>
+    <string name="start_date">시작일</string>
+    <string name="end_date">종료일</string>
+    <string name="introduction">소개</string>
+    <string name="char_count">%d/200</string>
+
+    <!-- Profile -->
+    <string name="my_page">마이페이지</string>
+    <string name="created_count">작성한 일정</string>
+    <string name="saved_count">저장한 일정</string>
+    <string name="likes_received">받은 좋아요</string>
+    <string name="followers">팔로워</string>
+    <string name="following_list">팔로잉</string>
+    <string name="followers_title">팔로워</string>
+    <string name="following_list_title">팔로잉</string>
+    <string name="follow_list_empty">목록이 비어 있습니다.</string>
+    <string name="edit_profile">내 정보 수정</string>
+    <string name="change_password">비밀번호 변경</string>
+    <string name="notification_settings">알림 설정</string>
+    <string name="customer_center">고객센터</string>
+    <string name="logout">로그아웃</string>
+
+    <!-- Nav -->
+    <string name="nav_home">홈</string>
+    <string name="nav_schedule">일정</string>
+    <string name="nav_add">추가</string>
+    <string name="nav_notifications">알림</string>
+    <string name="nav_profile">프로필</string>
+
+    <!-- Messages -->
+    <string name="login_success">로그인되었습니다.</string>
+    <string name="signup_success">회원가입이 완료되었습니다.</string>
+    <string name="fill_all_fields">모든 항목을 입력해주세요.</string>
+    <string name="password_mismatch">비밀번호가 일치하지 않습니다.</string>
+    <string name="itinerary_registered">여행 일정이 등록되었습니다.</string>
+    <string name="add_schedule">일정 항목 추가</string>
+    <string name="schedule_section">세부 일정</string>
+    <string name="schedule_item">일정</string>
+    <string name="schedule_day">일차</string>
+    <string name="schedule_time">시간</string>
+    <string name="schedule_place">장소</string>
+    <string name="schedule_desc">설명</string>
+    <string name="remove_schedule">일정 삭제</string>
+    <string name="schedule_required">최소 1개의 일정 항목을 입력해주세요.</string>
+    <string name="login_failed">이메일 또는 비밀번호가 올바르지 않습니다.</string>
+    <string name="email_exists">이미 가입된 이메일입니다.</string>
+    <string name="saved_itinerary">일정이 저장되었습니다.</string>
+    <string name="notifications_coming">알림 기능은 준비 중입니다.</string>
+    <string name="network_error">서버에 연결할 수 없습니다. Spring 서버가 실행 중인지 확인해주세요.</string>
+    <string name="loading">불러오는 중…</string>
+</resources>
