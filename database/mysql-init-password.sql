@@ -1,0 +1,2 @@
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'tripshare1234';
+FLUSH PRIVILEGES;
