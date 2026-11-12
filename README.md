@@ -67,7 +67,7 @@ TripShare는 사용자가 자신의 여행 일정을 등록하고 다른 사용�
 
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/1596f287-fb63-4109-bc41-4f1a4806829a" />
 
-<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/566c2bf3-fd9c-423b-9227-58f2fa17ae96" />
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/e3772f65-fdf5-4e46-8f4e-1f1966109ccf" />
 
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/f933e195-07e2-4b81-879c-dbb0e6a0804b" />
 
