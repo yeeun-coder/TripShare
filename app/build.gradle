@@ -28,7 +28,7 @@ android {
         manifestPlaceholders = [
                 MAPS_API_KEY: localProperties.getProperty(
                         'MAPS_API_KEY',
-                        'REDACTED_OLD_GOOGLE_MAPS_API_KEY')
+                        'YOUR MAPS_API_KEY')
         ]
     }
 
