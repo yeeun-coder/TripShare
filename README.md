@@ -52,12 +52,32 @@ TripShare는 사용자가 자신의 여행 일정을 등록하고 다른 사용�
 ## 📱 주요 화면
 
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/c31f1df9-fa30-43d1-b560-cac4dd101391" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/bae4f747-a776-4124-8992-4b2c11e92625" />  
   
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/1c5446bb-9c54-421a-9db0-b0b7e4854304" />
 
-<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/bae4f747-a776-4124-8992-4b2c11e92625" />  
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/44b7c86a-4e47-44b4-8dfc-12c83efe5572" />
 
-  
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/59a6619f-5943-46c6-81b3-8e4996c86166" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/1596f287-fb63-4109-bc41-4f1a4806829a" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/f933e195-07e2-4b81-879c-dbb0e6a0804b" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/22a43c18-3b57-4111-9d13-546e41a69b95" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/90e9130b-6fbf-42fc-ad8a-a2d519edf417" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/bab1dd9b-9a2d-41f4-b417-49bc5b03adea" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/38edd548-7a93-4f6f-b1d9-52cb699117a4" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/2016b590-99aa-4e2d-bdb6-10b563ffe3f9" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/3076a81f-1bcf-4948-bb8a-0aeb925a0951" />
+
+<br>
 
 | 시작 화면 | 로그인 / 회원가입 |
 |---|---|
