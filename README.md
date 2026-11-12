@@ -61,7 +61,13 @@ TripShare는 사용자가 자신의 여행 일정을 등록하고 다른 사용�
 
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/59a6619f-5943-46c6-81b3-8e4996c86166" />
 
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/8dc78e84-1679-4ac7-b0e1-6afd5e130f9f" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/aa8ce0a9-bd83-4b1e-af4e-bdd775b7a776" />
+
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/1596f287-fb63-4109-bc41-4f1a4806829a" />
+
+<img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/566c2bf3-fd9c-423b-9227-58f2fa17ae96" />
 
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/f933e195-07e2-4b81-879c-dbb0e6a0804b" />
 
@@ -77,7 +83,7 @@ TripShare는 사용자가 자신의 여행 일정을 등록하고 다른 사용�
 
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/3076a81f-1bcf-4948-bb8a-0aeb925a0951" />
 
-<br>
+<br><br>
 
 | 시작 화면 | 로그인 / 회원가입 |
 |---|---|
