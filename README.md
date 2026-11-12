@@ -51,9 +51,9 @@ TripShare는 사용자가 자신의 여행 일정을 등록하고 다른 사용�
 
 ## 📱 주요 화면
 
-- 시작 화면
+- 시작 화면   - 로그인
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/c31f1df9-fa30-43d1-b560-cac4dd101391" />
-- 로그인
+
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/1c5446bb-9c54-421a-9db0-b0b7e4854304" />
 - 회원가입
 <img width="102" height="227" alt="image" src="https://github.com/user-attachments/assets/bae4f747-a776-4124-8992-4b2c11e92625" />
